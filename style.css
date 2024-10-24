@@ -22,8 +22,13 @@ body {
 }
 
 p {
-    font-size: 18px;
-    color: purple;
+    font-size: 20px;
+    background: #fff;
+    margin: 15px 0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
 }
 
 .imgcentro {
@@ -50,13 +55,7 @@ li{
 /*onde vai os codigos abaixo: li ou li a?????? */
     
     li {
-        font-size: 20px;
-        background: #fff;
-        margin: 15px 0;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        transition: transform 0.3s;
+
     }
 
     img {
@@ -67,4 +66,3 @@ li{
         border-radius: 10px;
         border: 3px solid #2c3e50;
     }
-
