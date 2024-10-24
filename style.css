@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 30%;
-    margin-bottom: 5%;
+    margin-bottom: 1em;
 }
 
 #titulo {
