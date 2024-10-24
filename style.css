@@ -24,7 +24,6 @@ body {
 section{
     font-size: 20px;
     background: #d58982;
-    margin: 15px 0;
     padding-top: 30px;
     padding-bottom: 20px;
     padding-left: 5%;
@@ -37,6 +36,7 @@ section{
     gap: 100px;
     width: 70%;
 }
+
 p{
     color: white;
 }
