@@ -63,6 +63,10 @@ li{
     font-family: Verdana ;
 }
 
+li a {
+    text-decoration: none;
+}
+
 img {
     display: block;
     margin: 20px auto;
