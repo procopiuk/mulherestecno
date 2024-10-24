@@ -52,8 +52,17 @@ li{
 
 li a{
     font-size: 50px;
-
 }
+    li {
+        background: #fff;
+        margin: 15px 0;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s;
+    }
+
+
 
 button{
     font-size: 16px;
