@@ -104,3 +104,9 @@ ody {
 .menu a:hover {
     color: #ffcc00; /* Cor ao passar o mouse */
 }
+   /* Estilo para a imagem do logo */
+   #logo {
+    max-width: 100px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    margin-bottom: 10px;
+}
