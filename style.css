@@ -115,8 +115,7 @@ body {
 }
 
 .menu a:hover {
-    color: #ffcc00;
-    /* Cor ao passar o mouse */
+    color: #ffcc00; /* Cor ao passar o mouse */
 }
 
 .foto {
@@ -125,8 +124,3 @@ body {
     height: auto;
     border-radius: 8px;    /* Bordas arredondadas, se desejar */
 }
-
-
-
-
-
