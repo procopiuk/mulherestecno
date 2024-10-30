@@ -80,3 +80,27 @@ ody {
 .menu a:hover {
     text-decoration: underline;
 }
+
+ /* Estilos para o menu */
+ .menu {
+    background-color: #444;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+.menu ul {
+    list-style-type: none;
+    padding: 10px 0;
+    text-align: center;
+}
+.menu li {
+    display: inline;
+    margin: 0 20px;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+.menu a:hover {
+    color: #ffcc00; /* Cor ao passar o mouse */
+}
