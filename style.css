@@ -110,3 +110,9 @@ ody {
     height: auto;
     margin-bottom: 10px;
 }
+.foto {
+    max-width: 100px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    margin-top: 5px; /* Espaço entre o texto e a imagem */
+    border-radius: 8px; /* Bordas arredondadas, se desejar */
+}
