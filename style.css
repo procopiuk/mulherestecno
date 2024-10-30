@@ -129,11 +129,8 @@ body {
 }
 
 .foto {
-    max-width: 100px;
-    /* Ajuste o tamanho conforme necessário */
+    max-width: 100px;    /* Ajuste o tamanho conforme necessário */
     height: auto;
-    margin-top: 5px;
-    /* Espaço entre o texto e a imagem */
-    border-radius: 8px;
-    /* Bordas arredondadas, se desejar */
+    margin-top: 5px;    /* Espaço entre o texto e a imagem */
+    border-radius: 8px;    /* Bordas arredondadas, se desejar */
 }
