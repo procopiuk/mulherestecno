@@ -1,9 +1,9 @@
-body { 
+body {
     background-color: rgb(255, 255, 255);
 
 }
 
-.cabecalho{
+.cabecalho {
     background-color: #9190a7;
     color: white;
     padding: 20px;
@@ -16,7 +16,7 @@ body {
     color: white;
 }
 
-section{
+section {
     font-size: 20px;
     background: #9ba29f;
     padding-top: 30px;
@@ -33,7 +33,7 @@ section{
     margin: auto;
 }
 
-p{
+p {
     color: white;
 }
 
@@ -43,18 +43,18 @@ p{
     width: 300px;
 }
 
-nav{
+nav {
     padding-top: 0px;
     padding-bottom: 0px;
     font-size: ;
 }
 
-li{
-    text-align: center  ;
+li {
+    text-align: center;
     display: inline-block;
     padding: 0px 50px 0px 10px;
-    font-size: 30px ;
-    font-family: Verdana ;
+    font-size: 30px;
+    font-family: Verdana;
 }
 
 li a {
@@ -69,53 +69,70 @@ img {
     border-radius: 10px;
     border: 3px solid #2c3e50;
 }
+
+.imgmenu{
+    width: 15%;
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
-…   color: white;
+    … color: white;
     text-decoration: none;
     font-weight: bold;
 }
+
 .menu a:hover {
     text-decoration: underline;
 }
 
- /* Estilos para o menu */
- .menu {
+/* Estilos para o menu */
+.menu {
     background-color: #444;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     background-color: #444;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     padding: 10px 0;
 }
+
 .menu ul {
     list-style-type: none;
     padding: 10px 0;
     text-align: center;
 }
+
 .menu li {
     display: inline;
     margin: 0 20px;
 }
+
 .menu a {
     color: white;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
 }
+
 .menu a:hover {
-    color: #ffcc00; /* Cor ao passar o mouse */
+    color: #ffcc00;
+    /* Cor ao passar o mouse */
 }
-   /* Estilo para a imagem do logo */
-   #logo {
-    max-width: 100px; /* Ajuste o tamanho conforme necessário */
+
+/* Estilo para a imagem do logo */
+#logo {
+    max-width: 100px;
+    /* Ajuste o tamanho conforme necessário */
     height: auto;
     margin-bottom: 10px;
 }
+
 .foto {
-    max-width: 100px; /* Ajuste o tamanho conforme necessário */
+    max-width: 100px;
+    /* Ajuste o tamanho conforme necessário */
     height: auto;
-    margin-top: 5px; /* Espaço entre o texto e a imagem */
-    border-radius: 8px; /* Bordas arredondadas, se desejar */
+    margin-top: 5px;
+    /* Espaço entre o texto e a imagem */
+    border-radius: 8px;
+    /* Bordas arredondadas, se desejar */
 }
