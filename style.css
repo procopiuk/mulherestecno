@@ -122,21 +122,8 @@ img {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
     position: relative;
     bottom: 0;
     width: 100%;
-}
-
-.rodape {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 20px;
-    margin-top: auto; /* Empurra o rodapé para o final */
-}
-
-.rodape p {
-    margin: 0;
-    font-size: 14px;
 }
