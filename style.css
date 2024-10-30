@@ -111,6 +111,6 @@ img {
 }
 
 .foto {
-    width: 200px;
+    height: 300px;
     border-radius: 8px;    /* Bordas arredondadas, se desejar */
 }
