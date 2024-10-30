@@ -9,8 +9,8 @@ body {
 .cabecalho {
     background-color: #9190a7;
     color: white;
-    padding-bottom: 4em;
-    padding-top: 4em;
+    padding-bottom: 2em;
+    padding-top: 2em;
     text-align: center;
 }
 
@@ -82,7 +82,8 @@ img {
 .menu {
     background-color: #444;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    padding: 10px 0;
+    padding-top: 2em;
+    padding-bottom: 2em;
     font-size: 20px ;
 
 }
