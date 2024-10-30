@@ -70,9 +70,6 @@ img {
     border: 3px solid #2c3e50;
 }
 
-.imgmenu{
-    width: 10%;
-}
 
 body {
     font-family: Arial, sans-serif;
@@ -128,7 +125,11 @@ body {
     margin-bottom: 10px;
 }
 
+
+
+/* index*/
 .foto {
+    width: 10%;
     max-width: 400px;    /* Ajuste o tamanho conforme necessário */
     height: auto;
     margin-top: 5px;    /* Espaço entre o texto e a imagem */
