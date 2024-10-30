@@ -1,6 +1,5 @@
 body {
     background-color: rgb(255, 255, 255);
-
 }
 
 .cabecalho {
@@ -43,10 +42,6 @@ p {
     width: 300px;
 }
 
-nav {
-
-}
-
 li {
     text-align: center;
     display: inline-block;
@@ -86,8 +81,6 @@ body {
     height: auto;
     margin-bottom: 10px;
 }
-
-
 
 /* index*/
 .menu {
