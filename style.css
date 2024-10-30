@@ -1,5 +1,9 @@
 body {
-    background-color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .cabecalho {
@@ -64,20 +68,11 @@ img {
 }
 
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-}
 
 
 /* Estilo para a imagem do logo */
 #logo {
-    max-width: 100px;
-    /* Ajuste o tamanho conforme necessário */
+    max-width: 100px;    /* Ajuste o tamanho conforme necessário */
     height: auto;
     margin-bottom: 10px;
 }
