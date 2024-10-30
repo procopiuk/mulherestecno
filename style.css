@@ -44,9 +44,7 @@ p {
 }
 
 nav {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    font-size: ;
+
 }
 
 li {
@@ -80,18 +78,26 @@ body {
     font-weight: bold;
 }
 
-.menu a:hover {
-    text-decoration: underline;
+
+/* Estilo para a imagem do logo */
+#logo {
+    max-width: 100px;
+    /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    margin-bottom: 10px;
 }
 
-/* Estilos para o menu */
+
+
+/* index*/
 .menu {
-    background-color: #444;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     background-color: #444;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     padding: 10px 0;
     display: flex;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 20px ;
 }
 
 .menu ul {
@@ -117,21 +123,14 @@ body {
     /* Cor ao passar o mouse */
 }
 
-/* Estilo para a imagem do logo */
-#logo {
-    max-width: 100px;
-    /* Ajuste o tamanho conforme necessário */
-    height: auto;
-    margin-bottom: 10px;
-}
-
-
-
-/* index*/
 .foto {
-    width: 10%;
+    width: 20%;
     max-width: 400px;    /* Ajuste o tamanho conforme necessário */
     height: auto;
-    margin-top: 5px;    /* Espaço entre o texto e a imagem */
     border-radius: 8px;    /* Bordas arredondadas, se desejar */
 }
+
+
+
+
+
